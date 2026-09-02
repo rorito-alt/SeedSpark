@@ -1,0 +1,10 @@
+{
+  "title": "Car-Free Fridays",
+  "goal": "Get at least 50 people in the neighborhood to leave the car at home every Friday for 8 weeks",
+  "unit": "participants",
+  "target": 50,
+  "days": 56,
+  "location_type": "neighborhood",
+  "description": "Every Friday, walk, cycle, or take public transport instead of driving. Track your participation and invite neighbors. Reduce local emissions and reclaim the streets for people.",
+  "tags": ["mobility", "air-quality", "community"]
+}

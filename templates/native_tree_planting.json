@@ -1,0 +1,10 @@
+{
+  "title": "Native Tree Planting Drive",
+  "goal": "Plant and ensure survival of 300 native trees in public spaces and schools",
+  "unit": "trees",
+  "target": 300,
+  "days": 90,
+  "location_type": "city",
+  "description": "Focus on native species that support local biodiversity. Partner with schools and municipal bodies. Track survival after 6 months for real impact.",
+  "tags": ["biodiversity", "urban-greening", "schools"]
+}
